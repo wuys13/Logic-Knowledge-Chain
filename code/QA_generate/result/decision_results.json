@@ -1,0 +1,72 @@
+[
+    {
+        "Question": "Is there a significant inhibition of 22Rv1 cell line by Parthenolide?",
+        "Explanation": "Parthenolide has been shown to inhibit the 22Rv1 cell line in Prism analysis.",
+        "optionA": "True",
+        "optionB": "False",
+        "Answer": "True"
+    },
+    {
+        "Question": "Does parthenolide inhibit cell line 23132/87?",
+        "Explanation": "Parthenolide is a compound that has been studied for its inhibitory effects on various cell lines.",
+        "optionA": "True",
+        "optionB": "False",
+        "Answer": "True"
+    },
+    {
+        "Question": "Is there a significant inhibition of 253J cell line by Parthenolide?",
+        "Explanation": "Parthenolide inhibits the 253J cell line according to Prism analysis.",
+        "optionA": "True",
+        "optionB": "False",
+        "Answer": "True"
+    },
+    {
+        "Question": "Does Parthenolide inhibit the cell line 253J-BV?",
+        "Explanation": "Parthenolide has been shown to have an inhibitory effect on the 253J-BV cell line.",
+        "optionA": "True",
+        "optionB": "False",
+        "Answer": "True"
+    },
+    {
+        "Question": "Is there a significant inhibition effect of Parthenolide on 42-MG-BA cell line?",
+        "Explanation": "Parthenolide shows an inhibition effect on the 42-MG-BA cell line.",
+        "optionA": "True",
+        "optionB": "False",
+        "Answer": "True"
+    },
+    {
+        "Question": "Is there a significant inhibition between Parthenolide and 5637?",
+        "Explanation": "Parthenolide has been found to have an inhibitory effect on the cell line 5637.",
+        "optionA": "True",
+        "optionB": "False",
+        "Answer": "True"
+    },
+    {
+        "Question": "Is there an inhibition relationship between Parthenolide and 639V?",
+        "Explanation": "Parthenolide is a compound with biochemical and medical significance, while 639V refers to a cell line involved in biomedical research.",
+        "optionA": "True",
+        "optionB": "False",
+        "Answer": "True"
+    },
+    {
+        "Question": "Is there a significant relationship between Parthenolide and 647V in terms of inhibition?",
+        "Explanation": "Parthenolide exhibits inhibition of 647V.",
+        "optionA": "True",
+        "optionB": "False",
+        "Answer": "True"
+    },
+    {
+        "Question": "Does Parthenolide inhibit 769-P cells?",
+        "Explanation": "Parthenolide has been shown to inhibit the growth of 769-P cells.",
+        "optionA": "True",
+        "optionB": "False",
+        "Answer": "True"
+    },
+    {
+        "Question": "Is there a significant relationship between Parthenolide and 786-O in terms of inhibition?",
+        "Explanation": "Parthenolide is a biochemical compound with potential medicinal properties, while 786-O is a specific cell line used in biomedical research.",
+        "optionA": "True",
+        "optionB": "False",
+        "Answer": "True"
+    }
+]

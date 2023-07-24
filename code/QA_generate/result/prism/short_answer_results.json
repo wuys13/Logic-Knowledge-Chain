@@ -1,0 +1,27 @@
+[
+    {
+        "Question": "What is the relationship between parthenolide and 22Rv1?",
+        "Explanation": "Parthenolide is a biochemical compound with medical significance, and 22Rv1 refers to a specific cell line used in biomedical research.",
+        "Answer": "The relationship between parthenolide and 22Rv1 is inhibition, as proven in Prism dataset."
+    },
+    {
+        "Question": "What is the relationship between parthenolide and cell line 23132/87?",
+        "Explanation": "Using the Prism method, it has been shown that parthenolide inhibits cell line 23132/87.",
+        "Answer": "The relationship between parthenolide and cell line 23132/87 is inhibition."
+    },
+    {
+        "Question": "What is the relationship between Parthenolide and 253J?",
+        "Explanation": "Parthenolide is a biochemical entity with medical significance, while 253J is a cell line entity used in biomedical research.",
+        "Answer": "The relationship between Parthenolide and 253J is inhibition."
+    },
+    {
+        "Question": "What is the relationship between Parthenolide and 253J-BV?",
+        "Explanation": "The text states that using certain methods, Parthenolide can inhibit 253J-BV.",
+        "Answer": "The relationship between Parthenolide and 253J-BV is that Parthenolide can inhibit 253J-BV."
+    },
+    {
+        "Question": "What is the relationship between parthenolide and 42-MG-BA?",
+        "Explanation": "Parthenolide is a compound with biochemical and medical significance, and 42-MG-BA is a cell line commonly used in biomedical research.",
+        "Answer": "In the Prism dataset, using waterfal method, it has been proved that parthenolide inhibits the growth of 42-MG-BA cell line."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "Question": "Which of the following is true about the relationship between Parthenolide and 22Rv1?",
+        "Explanation": "Parthenolide is a biochemical compound and 22Rv1 is a cell line used in biomedical research.",
+        "optionA": "Parthenolide is an enzyme and 22Rv1 is a type of cancer.",
+        "optionB": "Parthenolide is a drug and 22Rv1 is a type of cell line.",
+        "optionC": "Parthenolide is a gene and 22Rv1 is a type of protein.",
+        "optionD": "Parthenolide is a disease and 22Rv1 is a type of virus.",
+        "Answer": "optionB"
+    },
+    {
+        "Question": "Which of the following is true about the relationship between Parthenolide and cell line 23132/87?",
+        "Explanation": "Parthenolide is a drug and cell line 23132/87 is a type of cell used in biomedical research.",
+        "optionA": "Parthenolide and cell line 23132/87 have a significant positive relationship in terms of inhibition.",
+        "optionB": "Parthenolide and cell line 23132/87 have a significant negative relationship in terms of inhibition.",
+        "optionC": "Parthenolide and cell line 23132/87 have no relationship in terms of inhibition.",
+        "optionD": "The relationship between Parthenolide and cell line 23132/87 in terms of inhibition is unknown.",
+        "Answer": "optionA"
+    },
+    {
+        "Question": "In the field of biomedical clinical research, what is the relationship between Parthenolide and 253J?",
+        "Explanation": "Parthenolide is a biochemical compound with medical significance, often used for its anti-inflammatory and anticancer properties. 253J is a cell line that is commonly used in cancer research.",
+        "optionA": "Parthenolide and 253J have a synergistic effect.",
+        "optionB": "Parthenolide and 253J have no relationship.",
+        "optionC": "Parthenolide inhibits the growth of 253J.",
+        "optionD": "Parthenolide promotes the growth of 253J.",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which drug showed inhibitory effects on the cell line 253J-BV?",
+        "Explanation": "Parthenolide is a bioactive compound with potential anti-cancer properties.",
+        "optionA": "Parthenolide and 253J-BV have a significant relationship in drug screening.",
+        "optionB": "Parthenolide and 253J-BV have no significant relationship in drug screening.",
+        "optionC": "Prism and Parthenolide have a significant relationship in drug screening.",
+        "optionD": "Prism and 253J-BV have a significant relationship in drug screening.",
+        "Answer": "A"
+    },
+    {
+        "Question": "What is the relationship between Parthenolide and 42-MG-BA in terms of inhibition?",
+        "Explanation": "Parthenolide and 42-MG-BA have been studied for their inhibition effects.",
+        "optionA": "Parthenolide and 42-MG-BA have no relationship in terms of inhibition.",
+        "optionB": "Parthenolide and 42-MG-BA have a significant relationship in terms of inhibition.",
+        "optionC": "Parthenolide enhances the inhibition of 42-MG-BA.",
+        "optionD": "Parthenolide reduces the inhibition of 42-MG-BA.",
+        "Answer": "B"
+    }
+]

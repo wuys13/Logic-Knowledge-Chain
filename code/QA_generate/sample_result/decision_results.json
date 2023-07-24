@@ -1,0 +1,72 @@
+[
+    {
+        "Question": "Is there an inhibition of Parthenolide on 22Rv1 in Prism?",
+        "Explanation": "Parthenolide is a biochemical compound and 22Rv1 is a cell line commonly used in biomedical research. The text suggests that Parthenolide has an inhibitory effect on 22Rv1 cells in Prism.",
+        "optionA": "True",
+        "optionB": "False",
+        "Answer": "True"
+    },
+    {
+        "Question": "Does parthenolide inhibit cell line 23132/87 in Prism with a 1 waterfall effect?",
+        "Explanation": "Parthenolide is a biochemical compound, and 23132/87 is a cell line used in biomedical research. It has been shown that parthenolide can inhibit the growth of 23132/87 cells when tested in Prism with a 1 waterfall effect.",
+        "optionA": "True",
+        "optionB": "False",
+        "Answer": "True"
+    },
+    {
+        "Question": "Is there a significant relationship between Parthenolide and 253J in terms of inhibition?",
+        "Explanation": "The single quote structured text suggests that Parthenolide and 253J are related in terms of inhibition.",
+        "optionA": "True",
+        "optionB": "False",
+        "Answer": "True"
+    },
+    {
+        "Question": "Is there a significant relationship between Parthenolide and 253J-BV in terms of inhibition?",
+        "Explanation": "Parthenolide has been shown to inhibit the 253J-BV cell line.",
+        "optionA": "True",
+        "optionB": "False",
+        "Answer": "True"
+    },
+    {
+        "Question": "Is the drug Parthenolide shown to inhibit the cell line 42-MG-BA in the Prism dataset?",
+        "Explanation": "According to the provided information, Parthenolide is a drug and 42-MG-BA is a cell line.",
+        "optionA": "True",
+        "optionB": "False",
+        "Answer": "True"
+    },
+    {
+        "Question": "Is the drug Parthenolide able to inhibit the cell line 5637?",
+        "Explanation": "Parthenolide has been shown to have inhibitory effects on the 5637 cell line.",
+        "optionA": "True",
+        "optionB": "False",
+        "Answer": "True"
+    },
+    {
+        "Question": "Is there an inhibition relationship between Parthenolide and cell line 639V?",
+        "Explanation": "Parthenolide is a chemical compound that has been shown to have inhibitory effects on cell line 639V.",
+        "optionA": "True",
+        "optionB": "False",
+        "Answer": "True"
+    },
+    {
+        "Question": "Does the drug Parthenolide inhibit the cell line 647V?",
+        "Explanation": "The text suggests that using the Prism method, the drug Parthenolide has been shown to inhibit the cell line 647V.",
+        "optionA": "True",
+        "optionB": "False",
+        "Answer": "True"
+    },
+    {
+        "Question": "Is there a significant inhibition of 769-P cell line by Parthenolide?",
+        "Explanation": "The text states that using certain methods, it has been shown that Parthenolide inhibits the 769-P cell line.",
+        "optionA": "True",
+        "optionB": "False",
+        "Answer": "True"
+    },
+    {
+        "Question": "Does Parthenolide inhibit 786-O cells?",
+        "Explanation": "Parthenolide has been proven to have an inhibitory effect on 786-O cells.",
+        "optionA": "True",
+        "optionB": "False",
+        "Answer": "True"
+    }
+]

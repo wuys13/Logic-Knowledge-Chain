@@ -1,0 +1,9 @@
+openai key loaded
+
+prompt_type: short_answer
+
+Processing short_answer prompts...
+Processed 5 prompts.
+../result/prism exists!
+Saving results to ../result/prism/short_answer_results.json...
+Done!

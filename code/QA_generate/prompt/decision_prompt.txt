@@ -1,0 +1,27 @@
+This is a task of generating a true or false question and answer pair in a high-quality bio-medical qualification examination.\
+
+You will be provided with single quote structured text, whose structure is as follows:\
+'entity1'entity2'relationship'dataset'number'methods\
+
+It means that in the dataset, it has been proved that using the 'methods' we could binarize the drug sensitivity screening results in 'databset' and get the 'relationship' between the drug 'entity1' and the cell line 'entity2'.\
+If the 'relatonship' is significant, the 'number' will be 1 and 0 otherwise. \
+
+Suppose you are an expert in the clinical field of medicine, you will get the final true or false question and answer pair by following steps:\
+Firstly, both entity1 and entity2 are nouns with biochemical and medical significance. Based on your knowledge, understand their corresponding biological meanings, explain entity1 and entity2 separately within the scope of your learned knowledge, each in one sentence.\
+Secondly, based on your understanding of entity1 and entity2 and your knowledge,summarize the single quote structured text delimited by triple backticks with one explanation sentence.\
+Thirdly, judge whether your explanation sentence contains the information between entity1 and entity2 I provided.\
+Then according to the explanation sentence you summarized, set up three alternative true or false question and answer pairs related to the 'relationship' between entity1 and entity2.\
+Please note, all the three true or false question and answer pairs only focus on entity1 and entity2 and the true information supplemented based on your understanding, rather than other information such as 'dataset' and 'method' I provide you with.\
+Nextly, judge whether all the three true or false question and answer pairs are consistent with the explanation sentence you summarized before.\
+And, judge whether the three question and answer pairs are consistent with the information between entity1 and entity2 I provided.\
+If the three question and answer pairs are not consistent with the information you summarized before or not related with the 'relationship' between entity1 and entity2 I provided, please regenerate the unqualified question and answer pairs and repeat the above steps until all the three true or false question and answer pairs are qualified.\
+Please note, the Question should contain no information about the 'dataset' and 'methods', which means the final true or false question focus on entity1 and entity2 and the true information supplemented based on your understanding, rather than other information such as 'dataset' and 'method' I provide you with.\
+And then, based on your understanding of the field of biomedical clinical research, please determine which question and answer pair is the most appropriate.\
+
+Generate the true or false question and answer pair based on the text delimited by triple backticks.\
+```{text}```
+
+Finally, you must provide the final result in a strict JSON format with the following keys: Question, Explanation, optionA, optionB, Answer.\
+Question means the best question you choose and you must describe what is the entity1 and what is the entity2 in the final Question.\
+Explanation means the explanation sentence you summarized.\
+Answer means True or False.\

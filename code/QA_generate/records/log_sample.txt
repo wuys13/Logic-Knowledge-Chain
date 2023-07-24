@@ -1,0 +1,74 @@
+openai key loaded
+
+prompt_type: decision
+
+Processing decision prompts..Traceback (most recent call last):
+  File "/Users/stephen/miniforge3/envs/python3.8/lib/python3.8/site-packages/urllib3/connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "/Users/stephen/miniforge3/envs/python3.8/lib/python3.8/site-packages/urllib3/util/connection.py", line 95, in create_connection
+    raise err
+  File "/Users/stephen/miniforge3/envs/python3.8/lib/python3.8/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 60] Operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/stephen/miniforge3/envs/python3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Users/stephen/miniforge3/envs/python3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "/Users/stephen/miniforge3/envs/python3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 1042, in _validate_conn
+    conn.connect()
+  File "/Users/stephen/miniforge3/envs/python3.8/lib/python3.8/site-packages/urllib3/connection.py", line 358, in connect
+    self.sock = conn = self._new_conn()
+  File "/Users/stephen/miniforge3/envs/python3.8/lib/python3.8/site-packages/urllib3/connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x12c136af0>: Failed to establish a new connection: [Errno 60] Operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/stephen/miniforge3/envs/python3.8/lib/python3.8/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/Users/stephen/miniforge3/envs/python3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 815, in urlopen
+    return self.urlopen(
+  File "/Users/stephen/miniforge3/envs/python3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 815, in urlopen
+    return self.urlopen(
+  File "/Users/stephen/miniforge3/envs/python3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "/Users/stephen/miniforge3/envs/python3.8/lib/python3.8/site-packages/urllib3/util/retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x12c136af0>: Failed to establish a new connection: [Errno 60] Operation timed out'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/stephen/miniforge3/envs/python3.8/lib/python3.8/site-packages/openai/api_requestor.py", line 596, in request_raw
+    result = _thread_context.session.request(
+  File "/Users/stephen/miniforge3/envs/python3.8/lib/python3.8/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/stephen/miniforge3/envs/python3.8/lib/python3.8/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/stephen/miniforge3/envs/python3.8/lib/python3.8/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x12c136af0>: Failed to establish a new connection: [Errno 60] Operation timed out'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "QA.py", line 114, in <module>
+    print(f"Processing {args.prompt_type} prompts...")
+  File "QA.py", line 47, in process_text_file
+    response = get_completion(prompt)
+  File "QA.py", line 24, in get_completion
+    response = openai.ChatCompletion.create(
+  File "/Users/stephen/miniforge3/envs/python3.8/lib/python3.8/site-packages/openai/api_resources/chat_completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/Users/stephen/miniforge3/envs/python3.8/lib/python3.8/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 153, in create
+    response, _, api_key = requestor.request(
+  File "/Users/stephen/miniforge3/envs/python3.8/lib/python3.8/site-packages/openai/api_requestor.py", line 288, in request
+    result = self.request_raw(
+  File "/Users/stephen/miniforge3/envs/python3.8/lib/python3.8/site-packages/openai/api_requestor.py", line 609, in request_raw
+    raise error.APIConnectionError(
+openai.error.APIConnectionError: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x12c136af0>: Failed to establish a new connection: [Errno 60] Operation timed out'))

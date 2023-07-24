@@ -1,0 +1,37 @@
+[
+    {
+        "Question": "Is there a significant inhibition of 22Rv1 cells by Parthenolide?",
+        "Explanation": "Parthenolide has been proven to have an inhibitory effect on the 22Rv1 cell line.",
+        "optionA": "True",
+        "optionB": "False",
+        "Answer": "True"
+    },
+    {
+        "Question": "Is Parthenolide able to inhibit cell line 23132/87?",
+        "Explanation": "Parthenolide has the ability to inhibit the growth or activity of the cell line 23132/87.",
+        "optionA": "True",
+        "optionB": "False",
+        "Answer": "True"
+    },
+    {
+        "Question": "Is there an inhibition relationship between Parthenolide and 253J cell line?",
+        "Explanation": "Parthenolide is a biochemical compound with medical significance, and 253J is a cell line often used in biomedical research.",
+        "optionA": "True",
+        "optionB": "False",
+        "Answer": "True"
+    },
+    {
+        "Question": "Is there a significant inhibition effect of Parthenolide on the 253J-BV cell line?",
+        "Explanation": "The text suggests that Parthenolide has an inhibitory effect on the 253J-BV cell line.",
+        "optionA": "True",
+        "optionB": "False",
+        "Answer": "True"
+    },
+    {
+        "Question": "Is there a significant relationship between Parthenolide and 42-MG-BA inhibition?",
+        "Explanation": "Parthenolide has been shown to inhibit the growth of the 42-MG-BA cell line.",
+        "optionA": "True",
+        "optionB": "False",
+        "Answer": "True"
+    }
+]

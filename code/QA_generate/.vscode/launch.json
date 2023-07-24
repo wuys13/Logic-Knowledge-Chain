@@ -1,0 +1,24 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "version": "0.2.0",
+            "configurations": [
+                {
+                    "name": "Python3",
+                    "type": "python",
+                    "request": "launch",
+                    "stopOnEntry": false,
+                    "python": "C:\\Users\\Silas\\AppData\\Local\\Programs\\Python\\Python311", //python3的安装路径！
+                    "program": "${file}",
+                    "cwd": "${workspaceFolder}",
+                    "env": {},
+                    "envFile": "${workspaceFolder}/.env",
+                    "debugOptions": [
+                        "RedirectOutput"
+                    ]
+                }
+            ]
+        },
+    ]
+}

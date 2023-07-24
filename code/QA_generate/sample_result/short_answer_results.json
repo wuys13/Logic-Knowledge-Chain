@@ -1,0 +1,52 @@
+[
+    {
+        "Question": "What is the relationship between Parthenolide and 22Rv1?",
+        "Explanation": "Parthenolide is a biochemical compound known for its medicinal properties, while 22Rv1 is a specific cell line used in biomedical research.",
+        "Answer": "The relationship between Parthenolide and 22Rv1 is inhibition."
+    },
+    {
+        "Question": "What is the relationship between Parthenolide and 23132/87?",
+        "Explanation": "In the Prism dataset, it has been proved that Parthenolide inhibits 23132/87.",
+        "Answer": "The relationship between Parthenolide and 23132/87 is inhibition."
+    },
+    {
+        "Question": "What is the relationship between Parthenolide and 253J?",
+        "Explanation": "Parthenolide and 253J are a drug and a cell line, respectively.",
+        "Answer": "There is no significant inhibition relationship between Parthenolide and 253J."
+    },
+    {
+        "Question": "What is the relationship between Parthenolide and 253J-BV?",
+        "Explanation": "Parthenolide and 253J-BV are both biochemical entities with medical significance.",
+        "Answer": "The relationship between Parthenolide and 253J-BV is inhibition."
+    },
+    {
+        "Question": "What is the relationship between Parthenolide and 42-MG-BA?",
+        "Explanation": "Parthenolide and 42-MG-BA are two entities with biochemical and medical significance.",
+        "Answer": "The relationship between Parthenolide and 42-MG-BA is inhibition."
+    },
+    {
+        "Question": "What is the relationship between Parthenolide and cell line 5637?",
+        "Explanation": "Parthenolide has been shown to inhibit cell line 5637.",
+        "Answer": "Inhibition"
+    },
+    {
+        "Question": "What is the relationship between Parthenolide and 639V?",
+        "Explanation": "Parthenolide is a biochemical compound with medicinal significance, while 639V is a cell line with biomedical relevance.",
+        "Answer": "There is no significant inhibition between Parthenolide and 639V."
+    },
+    {
+        "Question": "What is the relationship between Parthenolide and 647V?",
+        "Explanation": "Parthenolide and 647V have been studied using Prism software to determine the inhibition relationship.",
+        "Answer": "Parthenolide has an inhibitory effect on 647V."
+    },
+    {
+        "Question": "What is the relationship between Parthenolide and 769-P?",
+        "Explanation": "Using the waterfall method, it has been shown that Parthenolide inhibits 769-P.",
+        "Answer": "Parthenolide inhibits 769-P."
+    },
+    {
+        "Question": "What is the relationship between parthenolide and 786-O?",
+        "Explanation": "Using water extraction method, it has been proven that parthenolide inhibits the growth of 786-O cells.",
+        "Answer": "Parthenolide inhibits the growth of 786-O cells."
+    }
+]

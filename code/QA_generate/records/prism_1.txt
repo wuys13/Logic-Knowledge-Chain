@@ -1,0 +1,9 @@
+openai key loaded
+
+prompt_type: decision
+
+Processing decision prompts...
+Processed 5 prompts.
+../result/prism exists!
+Saving results to ../result/prism/decision_results.json...
+Done!

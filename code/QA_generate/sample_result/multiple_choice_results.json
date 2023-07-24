@@ -1,0 +1,92 @@
+[
+    {
+        "Question": "Which of the following statements is true about the relationship between Parthenolide and 22Rv1?",
+        "Explanation": "Parthenolide is a bioactive compound with potential anti-cancer properties, while 22Rv1 is a human prostate cancer cell line commonly used in research studies.",
+        "optionA": "Parthenolide enhances the growth of 22Rv1 cells in Prism dataset.",
+        "optionB": "Parthenolide has no effect on the growth of 22Rv1 cells in Prism dataset.",
+        "optionC": "Parthenolide inhibits the growth of 22Rv1 cells in Prism dataset.",
+        "optionD": "Parthenolide induces cell death in 22Rv1 cells in Prism dataset.",
+        "Answer": "optionC"
+    },
+    {
+        "Question": "Which chemical compound can inhibit the growth of cell line 23132/87?",
+        "Explanation": "Parthenolide can inhibit the growth of the cell line 23132/87.",
+        "optionA": "Ascorbic acid",
+        "optionB": "Parthenolide",
+        "optionC": "Lycopene",
+        "optionD": "Resveratrol",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following is true about the relationship between Parthenolide and 253J?",
+        "Explanation": "Parthenolide has an inhibitory effect on the cell line 253J.",
+        "optionA": "Parthenolide enhances the growth of the cell line 253J.",
+        "optionB": "The cell line 253J promotes the production of Parthenolide.",
+        "optionC": "Parthenolide has no effect on the cell line 253J.",
+        "optionD": "The cell line 253J inhibits the production of Parthenolide.",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the relationship between Parthenolide and 253J-BV?",
+        "Explanation": "Parthenolide inhibits the growth of 253J-BV cells.",
+        "optionA": "Parthenolide enhances the growth of 253J-BV cells.",
+        "optionB": "Parthenolide has no effect on the growth of 253J-BV cells.",
+        "optionC": "Parthenolide promotes metastasis of 253J-BV cells.",
+        "optionD": "Parthenolide induces apoptosis in 253J-BV cells.",
+        "Answer": "D"
+    },
+    {
+        "Question": "Which drug exhibits inhibition on cell line 42-MG-BA?",
+        "Explanation": "Parthenolide is a drug that exhibits inhibition on cell line 42-MG-BA.",
+        "optionA": "Parthenolide inhibits cell line 42-MG-BA.",
+        "optionB": "42-MG-BA exhibits inhibition on Parthenolide.",
+        "optionC": "Prism shows inhibition on cell line 42-MG-BA.",
+        "optionD": "Parthenolide exhibits no inhibition on cell line 42-MG-BA.",
+        "Answer": "A"
+    },
+    {
+        "Question": "What is the relationship between Parthenolide and 5637?",
+        "Explanation": "Parthenolide has been found to inhibit 5637 in the Prism dataset.",
+        "optionA": "Parthenolide promotes the growth of 5637 in the Prism dataset.",
+        "optionB": "No relationship has been observed between Parthenolide and 5637 in the Prism dataset.",
+        "optionC": "Parthenolide has no effect on 5637 in the Prism dataset.",
+        "optionD": "Parthenolide enhances the sensitivity of 5637 in the Prism dataset.",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which drug inhibits the cell line 639V?",
+        "Explanation": "Parthenolide is a drug that has been proven to inhibit the cell line 639V.",
+        "optionA": "Drug sensitivity screening results in the Prism dataset indicate that Parthenolide inhibits the cell line 639V.",
+        "optionB": "Using waterfalls as a method, it has been shown that Parthenolide inhibits the cell line 639V.",
+        "optionC": "In the Prism dataset, Parthenolide has been found to have no effect on the cell line 639V.",
+        "optionD": "Waterfalls have been used to analyze the relationship between Parthenolide and the cell line 639V.",
+        "Answer": "A"
+    },
+    {
+        "Question": "In the field of biomedical clinical research, what is the relationship between Parthenolide and 647V?",
+        "Explanation": "Parthenolide is a biochemical compound with medical significance, while 647V is a cell line commonly used in research. The single quote structured text indicates that using the Prism method, the drug Parthenolide has been proven to inhibit the cell line 647V.",
+        "optionA": "Parthenolide enhances the growth of 647V cells.",
+        "optionB": "Parthenolide has no effect on the growth of 647V cells.",
+        "optionC": "Parthenolide decreases the growth of 647V cells.",
+        "optionD": "Parthenolide has an unknown effect on the growth of 647V cells.",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the field of biomedical clinical research, what is the relationship between Parthenolide and 769-P?",
+        "Explanation": "Parthenolide and 769-P are involved in the inhibition process as determined by Prism analysis.",
+        "optionA": "Parthenolide and 769-P have no significant relationship in drug sensitivity screening.",
+        "optionB": "Parthenolide and 769-P have been proven to have a significant positive relationship in drug sensitivity screening.",
+        "optionC": "Parthenolide and 769-P have been proven to have a significant negative relationship in drug sensitivity screening.",
+        "optionD": "Parthenolide and 769-P have not been studied in drug sensitivity screening.",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following is the most significant relationship between Parthenolide and 786-O?",
+        "Explanation": "Parthenolide is a bioactive compound with biomedical significance, while 786-O refers to a specific cell line in the field of medicine.",
+        "optionA": "Parthenolide has no effect on 786-O cells.",
+        "optionB": "Parthenolide enhances the growth of 786-O cells.",
+        "optionC": "Parthenolide inhibits the growth of 786-O cells.",
+        "optionD": "Parthenolide has no effect on the relationship between Parthenolide and 786-O cells.",
+        "Answer": "C"
+    }
+]
